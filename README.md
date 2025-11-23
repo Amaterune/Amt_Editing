@@ -5,6 +5,6 @@
 
 <img width="854" height="151" alt="image" src="https://github.com/user-attachments/assets/5843b4f6-5cfe-4117-9785-324bf80bfce3" />
 
-## Resulting
+## Resulting in something like:
 
 <img width="141" height="68" alt="image" src="https://github.com/user-attachments/assets/2ac75df9-eac4-4d75-9dca-88f506d9a3f2" />
